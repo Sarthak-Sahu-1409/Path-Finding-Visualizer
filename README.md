@@ -2,7 +2,7 @@
 
 An interactive pathfinding and maze-generation visualizer built with React, TypeScript, Vite, and Tailwind CSS.
 
-- Live Demo: `https://final-path-finding-visualizer.vercel.app/`
+- Live Demo: `[https://final-path-finding-visualizer.vercel.app/](https://path-finding-visualizer-lake.vercel.app/)`
 
 ### Features
 - Visualize classic pathfinding algorithms: Dijkstra, A*, Breadth-First Search (BFS), Depth-First Search (DFS)
